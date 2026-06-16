@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/LiauKelvin/Web-Kopi-Aja-DB/blob/master/public/img/logo%20Kopijadi.png?raw=true" alt="Logo Kopi Jadi" width="150">
-  <img src="https://raw.githubusercontent.com/LiauKelvin/Web-Kopi-Aja-DB/refs/heads/master/public/favicon.ico" alt="Logo Codeigniter" width="150">
+  <img src="https://github.com/LiauKelvin/Web-Kopi-Aja-DB/blob/master/public/codeigniter%20img.png?raw=true" alt="Logo Codeigniter" width="150">
+  <img src="https://github.com/LiauKelvin/Web-Kopi-Aja-DB/blob/master/public/php%20img.png?raw=true" alt="Logo php" width="150">
 </p>
 
 ## 📖 Tentang Program
