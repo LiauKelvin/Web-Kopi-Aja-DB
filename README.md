@@ -1,4 +1,22 @@
-# CodeIgniter 4 Application Starter
+# ☕ Web Kopi jadi
+
+<p align="center">
+  <img src="https://github.com/LiauKelvin/Web-Kopi-Aja-DB/blob/master/public/img/logo%20Kopijadi.png?raw=true" alt="Logo Kopi Jadi" width="150">
+  <img src="https://raw.githubusercontent.com/LiauKelvin/Web-Kopi-Aja-DB/refs/heads/master/public/favicon.ico" alt="Logo Codeigniter" width="150">
+</p>
+
+## 📖 Tentang Program
+**Web Kopi jadi** adalah website company profile yang menjelaskan latar belakang serta dari pembuatan toko kopi yang menjual berbagai menu minuman kopi terkenal mulai dari kopi seperti arabica, ethiopia, kona, luwak, madheling, robusta, dll. Toko kopi juga menyediakan layanan pemesanan online yang dapat dilakukan pada **menu cart**.
+
+Website kopi jadi dibuat dengan menggunakan framework codeigniter 4 dengan xampp untuk mengatur database yang ada.
+
+### ✨ Fitur Utama:
+*   **Company Profile Kopi:** Menjelaskan latar belakang pembuatan toko kopi jadi yang menjual berbagai jenis minuman kopi dan biji kopi.
+*   **Cart Penjualan Kopi:** Menu _cart_ yang digunakan untuk melakukan pemilihan, perhitungan, serta pemesanan menu kopi yang ada pada web kopi jadi.
+*   **Framework Codeigniter 4:** Sistem framework yang digunakan untuk mempermudah proses pengembangan website.
+
+---
+## CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
 
